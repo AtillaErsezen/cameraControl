@@ -58,4 +58,4 @@ You also need the following packages:
 2. Open a terminal (or command prompt) in the directory containing the files.
 3. Install all required dependencies:
    ```bash
-   pip install opencv-python mediapipe pyautogui pillow
+   pip install -r requirements.txt
